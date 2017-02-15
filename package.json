@@ -9,7 +9,5 @@
   "keywords": [],
   "author": "duwonyi <duwonyi@gmail.com> (duwonyi.net)",
   "license": "MIT",
-  "devDependencies": {
-    "jasmine": "^2.5.2"
-  }
+  "devDependencies": {}
 }
