@@ -1,8 +1,8 @@
 var assert = require('chai').assert;
-var foo;
+var foo = null;
 
-describe.only('Primitive Types', () => {
-  it('test', () => {
-    assert.equal(typeof foo, 'undefined');
+describe('Primitive Types', () => {
+  it('typeof null is object', () => {
+    assert.equal(typeof foo, 'object');
   });
 });

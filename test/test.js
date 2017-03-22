@@ -1,5 +1,5 @@
 var assert = require('chai').assert;
-describe('Array', function() {
+describe.skip('Array', function() {
   before('before desc', function(){
     console.log('test');
   });
